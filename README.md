@@ -29,8 +29,6 @@
 
 # 4. 본인 소개
 
-본인 소개를 추가하세요
-
 |이름 |나성주|![gdKO](/Na2.jpg)|
 |연락처 | nsj3391(@)gmail.com|
 |skill set| Frontend - HTML, CSS, Javascript|
