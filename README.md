@@ -19,7 +19,7 @@
 
 프로젝트 제안서를 설명하세요. 발표자료와 동영상을 추가하세요. 시스템의 아키텍쳐 설명도 추가하세요.
 
-   <img src="ppt.jpg"/>[발표자료](/HAFY_프로젝트제안서.pdf)<br>
+   <img src="제안서썸네일.jpg"/>[발표자료](/HAFY_프로젝트제안서.pdf)<br>
    <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/watch?v=vMX2hBjaBxw&t=5s" frameborder="0"></iframe>
  
 
@@ -27,7 +27,7 @@
 프로젝트 결과를 추가하세요. 발표자료. 시연동영상을 추가하세요.
 
 ## 발표 ppt 
-   <img src="ppt.jpg"/>[발표자료](/HAFY_발표_최종.pdf)<br>
+   <img src="발표피피티썸네일.jpg"/>[발표자료](/HAFY_발표_최종.pdf)<br>
 
 ## 시연 동영상 
 
@@ -43,18 +43,3 @@
 | | Backend - Java, Spring, Oracle|
 |자격증|  SQLD|
 |특기사항|  TOEIC 925 |
-
-
-# 홈페이지 설정
- 본인 repository에서 "Setting"를 들어가서 GitHub Pages에서 설정 변경.
-* Source
- Source에서 원하는 branch와 directory 설정한다. 
- 기본값은 master 에 root를 설정 
- Save 버튼 꼭 누른다.
- 
- * Theme Chooser
- theme을 변경하여 좀더 이쁜 홈페이지를 만든다.
-   
-   <img src="homepage.JPG"/><br>
-   
- 
