@@ -17,20 +17,15 @@
 
 # 2. 프로젝트 제안서
 
-프로젝트 제안서를 설명하세요. 발표자료와 동영상을 추가하세요. 시스템의 아키텍쳐 설명도 추가하세요.
-
-   <img src="제안서썸네일.jpg"/>[발표자료](/HAFY_프로젝트제안서.pdf)<br>
-   <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/watch?v=vMX2hBjaBxw&t=5s" frameborder="0"></iframe>
- 
+   <img src="제안서썸네일.JPG"/>[발표자료](/HAFY_프로젝트제안서.pdf)<br> 
 
 # 3. 프로젝트 결과
-프로젝트 결과를 추가하세요. 발표자료. 시연동영상을 추가하세요.
 
 ## 발표 ppt 
-   <img src="발표피피티썸네일.jpg"/>[발표자료](/HAFY_발표_최종.pdf)<br>
+   <img src="발표피피티썸네일.JPG"/>[발표자료](/HAFY_발표_최종.pdf)<br>
 
 ## 시연 동영상 
-
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vMX2hBjaBxw&t=5s" frameborder="0" allowfullscreen></iframe>
    <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/watch?v=vMX2hBjaBxw&t=5s" frameborder="0"></iframe>
 
 # 4. 본인 소개
