@@ -25,7 +25,6 @@
    <img src="발표피피티썸네일.JPG"/>[발표자료](/HAFY_발표_최종.pdf)<br>
 
 ## 시연 동영상 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vMX2hBjaBxw&t=5s" frameborder="0" allowfullscreen></iframe>
    <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/watch?v=vMX2hBjaBxw&t=5s" frameborder="0"></iframe>
 
 # 4. 본인 소개
