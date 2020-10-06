@@ -4,14 +4,23 @@
 
 # 1. 프로젝트 개요
 
-이것은 프로젝트 개요입니다. 글과 그림을 이용하여 개요를 설명하세요.
+
+개요
+- 제작배경
+  1. 유니크한 아이템에 대한 수요 증가
+  2. 일반상품 경매 플랫폼의 부재
+  3. 중고거래 시장 활성화 (ex. 당근마켓)
+
+목적
+- 천 원 단위부터 백만 원 단위까지, 고가가 아닌 일반상품들도 대중들이 쉽게 거래할 수 있는 경매플랫폼 제작
+
 
 # 2. 프로젝트 제안서
 
 프로젝트 제안서를 설명하세요. 발표자료와 동영상을 추가하세요. 시스템의 아키텍쳐 설명도 추가하세요.
 
    <img src="ppt.jpg"/>[발표자료](/project.pptx)<br>
-   <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/6LxbdIjWP04" frameborder="0"></iframe>
+   <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/watch?v=vMX2hBjaBxw&t=5s" frameborder="0"></iframe>
  
 
 # 3. 프로젝트 결과
