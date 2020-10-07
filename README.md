@@ -1,6 +1,4 @@
-# 프로젝트 제목
-
-[프로젝트 홈페이지 - https://koposoftware.github.io/template/](https://koposoftware.github.io/template/)
+# 하피 - 기존 모임통장을 기반으로 한 간편 경매 앱
 
 # 1. 프로젝트 개요
 
